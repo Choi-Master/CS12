@@ -1,4 +1,5 @@
-# COMPUTER PROGRAMMING 11 - DR. CHARLES BEST SECONDARY
+# COMPUTER PROGRAMMING 11 
+# DR. CHARLES BEST SECONDARY
 
 
 I recommend you use [the Mu Python editor](https://codewith.mu/) to run your
