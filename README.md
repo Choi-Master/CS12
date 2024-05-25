@@ -1,6 +1,6 @@
-# cmpt120fall2022
+# cp11 Sept. 2024
 
-A repository for the notes, files, and examples used in the lectures of the
-SFU Surrey Fall 2022 offering of CMPT 120.
+A repository for the notes, files, and examples used in the lectures of 
+Dr. Charles Best Sec. Fall 2024 offering of CP11
 
-Notes website: https://tjd1234.github.io/cmpt120fall2022/
+Notes website: https://Choi-Master/cp11
