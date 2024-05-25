@@ -1,7 +1,7 @@
-# Comp. Prog. 12, Fall 2024
+# CS 12, Fall 2024
 
 Due dates, marks, discussions, etc. are all on
-[Canvas](https://canvas.sfu.ca/courses/73212).
+[...]
 
 I recommend you use [the Mu Python editor](https://codewith.mu/) to run your
 Python programs. It's easy to use, and comes complete with all the libraries
@@ -30,7 +30,7 @@ Here is an [exam timer](https://tjd1234.github.io/examclock/examclock.html)
 that shows the remaining time in an exam.
 
 
-## Dr. Donaldson's Lecture Notes
+## Mr. Choi's Lecture Notes
 
 ### Week 1
 - [Read chapter 1: Introduction (all)](https://runestone.academy/ns/books/published/120fall2022surrey/GeneralIntro/toctree.html)
