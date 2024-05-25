@@ -1,4 +1,4 @@
-# CMPT 120 Surrey, Fall 2022
+# Comp. Prog. 12, Fall 2024
 
 Due dates, marks, discussions, etc. are all on
 [Canvas](https://canvas.sfu.ca/courses/73212).
