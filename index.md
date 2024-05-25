@@ -130,11 +130,10 @@ that shows the remaining time in an exam.
 ([solutions](exams/120-D400final_practice_quiz_sol.pdf)) and review during
 class.
 - Mon Dec 5: [lecture 34](lectures/lecture34/lecture34notes.md)
-- Tue Dec 6: last day of SFU classes for Fall 2022
+- Tue Dec 6: last day of regular classes for Fall 2024
 
 
-## Exam Period: Wed Dec 7 to Mon December 19
+## Exam Period: Wed Jan 7 to Mon Jan 19
 
-The day and time of the CMPT 120 final exam was announced by the university part
+The day and time of the CS 12 final exam was announced by the university part
 way through the semester, and is published on
-[Canvas](https://canvas.sfu.ca/courses/73212).
