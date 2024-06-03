@@ -1,7 +1,7 @@
-# CMPT 120 Surrey, Fall 2022
+# CS 12, Fall 2024
 
 Due dates, marks, discussions, etc. are all on
-[Canvas](https://canvas.sfu.ca/courses/73212).
+[...]
 
 I recommend you use [the Mu Python editor](https://codewith.mu/) to run your
 Python programs. It's easy to use, and comes complete with all the libraries
@@ -30,7 +30,7 @@ Here is an [exam timer](https://tjd1234.github.io/examclock/examclock.html)
 that shows the remaining time in an exam.
 
 
-## Dr. Donaldson's Lecture Notes
+## Mr. Choi's Lecture Notes
 
 ### Week 1
 - [Read chapter 1: Introduction (all)](https://runestone.academy/ns/books/published/120fall2022surrey/GeneralIntro/toctree.html)
@@ -130,11 +130,10 @@ that shows the remaining time in an exam.
 ([solutions](exams/120-D400final_practice_quiz_sol.pdf)) and review during
 class.
 - Mon Dec 5: [lecture 34](lectures/lecture34/lecture34notes.md)
-- Tue Dec 6: last day of SFU classes for Fall 2022
+- Tue Dec 6: last day of regular classes for Fall 2024
 
 
-## Exam Period: Wed Dec 7 to Mon December 19
+## Exam Period: Wed Jan 7 to Mon Jan 19
 
-The day and time of the CMPT 120 final exam was announced by the university part
+The day and time of the CS 12 final exam was announced by the university part
 way through the semester, and is published on
-[Canvas](https://canvas.sfu.ca/courses/73212).

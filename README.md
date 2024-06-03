@@ -1,6 +1,6 @@
-# cmpt120fall2022
+# CS12 Sept. 2024
 
-A repository for the notes, files, and examples used in the lectures of the
-SFU Surrey Fall 2022 offering of CMPT 120.
+A repository for the notes, files, and examples used in the lectures of 
+Mr. Choi's Fall 2024 offering of CS12
 
-Notes website: https://tjd1234.github.io/cmpt120fall2022/
+Notes website: https://choi-master.github.io/CS12
