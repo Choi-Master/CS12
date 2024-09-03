@@ -1,139 +1,148 @@
 # CS 12, Fall 2024
 
-Due dates, marks, discussions, etc. are all on
-[...]
-
-I recommend you use [the Mu Python editor](https://codewith.mu/) to run your
-Python programs. It's easy to use, and comes complete with all the libraries
-you'll need for this course.
+Due dates, marks, discussions, etc. are all on MS TEAMS.
 
 ## Assignments
 
-- [Assignment 1](assignments/a1/a1.md)
-- [Assignment 2](assignments/a2/a2.md)
-- [Assignment 3](assignments/a3/a3.md). [Sample solution (includes sample solution to assignment 2)](assignments/a3/a3_sample_solution.zip).
-- [Assignment 4](assignments/a4/a4.md)
-- [Assignment 5](assignments/a5/a5.md)
+- [Assignment 1](https://github.com/tjd1234/cmpt120fall2024/tree/main/assignments/a1/a1.ipynb)
+- Assignment 2
+- Assignment 3
+- Assignment 4
+- Assignment 5
 
 ## Sample Exams
 
-- [Sample Midterm coding questions](exams/120-D400midterm_coding_sample_fall2022.pdf) ([solutions](exams/120-D400midterm_coding_sample_fall2022_sol.pdf))
-- [Mini midterm](exams/120-D400mini_midterm1_fall2022.pdf) ([solutions](exams/120-D400mini_midterm1_fall2022_sol.pdf))
-- [Sample solutions to midterm exam](exams/120-D400midterm1_fall2022_sample_solutions.pdf)
-- [Zero marks list quiz](lectures/lecture24/lecture24Quiz.pdf) ([sample solutions](lectures/lecture24/lecture24Quiz_sol.pdf)) based on [lecture 24](lectures/lecture24/lecture24.md)
-- [Zero marks quiz on dictionaries](lectures/lecture30/lecture30Quiz.pdf) ([solutions](lectures/lecture30/lecture30Quiz_sol.pdf))
-- [Sample final exam programming questions](exams/120-D400final_coding_sample_fall2022.pdf) ([solutions](exams/120-D400final_coding_sample_fall2022_sol.pdf))
-- [Final exam practice quiz](exams/120-D400final_practice_quiz.pdf)
-([solutions](exams/120-D400final_practice_quiz_sol.pdf)) during class.
+To Be Shared.
 
 Here is an [exam timer](https://tjd1234.github.io/examclock/examclock.html)
 that shows the remaining time in an exam.
 
+## Lecture Notes (Fall 2024)
 
-## Mr. Choi's Lecture Notes
+Most of the notes are written in [Jupyter notebooks](https://jupyter.org/). [See
+here for an
+overview](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/jupyter_intro.ipynb)
+if you are unfamiliar with notebooks.
 
-### Week 1
-- [Read chapter 1: Introduction (all)](https://runestone.academy/ns/books/published/120fall2022surrey/GeneralIntro/toctree.html)
-- Wed Sept 7: [lecture 1](lectures/lecture1/lecture1notes.md)
-- Only 1 lecture this week
+**You don't need to install notebook software on your own computer**. They are
+easy to read on the web in a couple of ways:
 
-### Week 2
-- [Read chapter 2: Simple Data (all)](https://runestone.academy/ns/books/published/120fall2022surrey/SimplePythonData/toctree.html)
-- Mon Sept 12: [lecture 2](lectures/lecture2/lecture2notes.md),
-               [lecture 3](lectures/lecture3/lecture3notes.md)
-- Wed Sept 14: [lecture 4](lectures/lecture4/lecture4notes.md)
+1. Directly through their github web links. Just click on the Github link, e.g.
+   [chapter 0](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap00.ipynb).
+2. Using the [Jupyter notebook viewer](https://nbviewer.jupyter.org/). Paste the
+   github link into the viewer.
+3. Use [Google Colab](https://colab.research.google.com/). You will need a
+   (free) Google account to use it. You can open notebooks interactively in
+   [Google Colab](https://colab.research.google.com/). You can save your own
+   copies (e.g. [download all files a zip
+   file](https://github.com/tjd1234/cmpt120fall2024/zipball/main)) in
+   [Colab](https://colab.research.google.com/) that you can run and edit.
+   [Colab](https://colab.research.google.com/) provides all the Python libraries
+   you are likely to ever need, and you can run cells online. 
 
-### Week 3
-- [Read chapter 4: Turtle graphics and for-loops (all)](https://runestone.academy/ns/books/published/120fall2022surrey/PythonTurtle/toctree.html)
-- [Read chapter 5: Modules (all)](https://runestone.academy/ns/books/published/120fall2022surrey/PythonModules/toctree.html)
-- Mon Sept 19: SFU closed, lectures cancelled (Queen's funeral)
-- Wed Sept 21: [lecture 5](lectures/lecture5/lecture5notes.md), 
-               [lecture 6](lectures/lecture6/lecture6notes.md),
-               [lecture 7](lectures/lecture7/lecture7notes.md)
+### Week 1 (Sept 2 to Sept 6)
 
-### Week 4
-- [Read chapter 6: Functions (all)](https://runestone.academy/ns/books/published/120fall2022surrey/Functions/toctree.html)
-- Mon Sept 26: [lecture 8](lectures/lecture8/lecture8notes.md),
-               [lecture 9](lectures/lecture9/lecture9notes.md)
-- Wed Sept 28: [lecture 10](lectures/lecture10/lecture10notes.md)
-- Fri Sept 30: SFU Closed ([T&R
-  day](https://www.canada.ca/en/canadian-heritage/campaigns/national-day-truth-reconciliation.html))
+- Read this textbook chapter: [chapter 0](textbook/chap00.ipynb)
 
-### Week 5
-- [Read chapter 7: Selection (all)](https://runestone.academy/ns/books/published/120fall2022surrey/Selection/toctree.html)
-- Mon Oct 3: [lecture 11](lectures/lecture11/lecture11notes.md), 
-             [lecture 12](lectures/lecture12/lecture12notes.md)
-- Wed Oct 5: [lecture 13](lectures/lecture13/lecture13notes.md)
+### Week 2 (Sept 9 to Sept 13)
 
-### Week 6
-- [Read chapter 8: More About Iteration (8.1 - 8.8)](https://runestone.academy/ns/books/published/120fall2022surrey/MoreAboutIteration/toctree.html)
-- Mon Oct 10: SFU Closed
-  ([Thanksgiving](https://en.wikipedia.org/wiki/Thanksgiving_(Canada)))
-- Wed Oct 12: [lecture 14](lectures/lecture14/lecture14notes.md)
+- Read this textbook chapter: [chapter 1](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap01.ipynb)
+- Review these lecture notes: [chapter 1 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/chapter1_lecture.ipynb)
+- Do this homework: [chapter 1 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/homework1.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/homework1_sol.ipynb))
+- Write the weekly Canvas quiz on Friday!
 
-### Week 7
-- [Read chapter 8: More About Iteration (8.1 - 8.8)](https://runestone.academy/ns/books/published/120fall2022surrey/MoreAboutIteration/toctree.html)
-- Mon Oct 17: [lecture 15](lectures/lecture15/lecture15notes.md),
-              [lecture 16](lectures/lecture16/lecture16notes.md)
-- Wed Oct 19: [lecture 17](lectures/lecture17/lecture17notes.md) (midterm prep)
+### Week 3 (Sept 16 to Sept 20)
 
-### Week 8
-- Mon Oct 24: midterm exam for CMPT 120 Surrey (same room, same time as
-  lectures)
-- [lecture 18: binary](lectures/lecture18/lecture18notes.md)
+- Read this textbook chapter: [chapter 2](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap02.ipynb)
+- Review these lecture notes: [chapter 2 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter2/chapter2_lecture.ipynb)
+- Do this homework: [chapter 2 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter2/homework2.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter2/homework2_sol.ipynb))
+- Write the weekly Canvas quiz on Friday!
 
-### Week 9
-- [Read chapter 9: Strings (9.1 - 9.14)](https://runestone.academy/ns/books/published/120fall2022surrey/Strings/toctree.html); 
-  skip 9.5.1 (you don't need to know about the `format` method: we're using f-strings instead)
-- Mon Oct 30: [lecture 19](lectures/lecture19/lecture19notes.md), 
-              [lecture 20](lectures/lecture20/lecture20notes.md)
-- Wed Nov 2:  [lecture 21](lectures/lecture21/lecture21notes.md)
+### Week 4 (Sept 23 to Sept 27)
 
-### Week 10
-- [Read chapter 10: Lists (10.1 - 10.12, 10.14, 10.17 - 10.19,
-  10.22)](https://runestone.academy/ns/books/published/120fall2022surrey/Lists/toctree.html), and reading text files line by line;
-  tuples will **not** be covered in this course (they're essentially immutable
-  lists)
-- Mon Nov 7: [lecture 22](lectures/lecture22/lecture22notes.md) 
-             ([template used in lecture](lectures/lecture22/lecture22.docx)), 
-             [lecture 23](lectures/lecture23/lecture23notes.md) 
-             ([template used in lecture](lectures/lecture23/lecture23.docx))
-- Wed Nov 9: In class we did a [zero marks list quiz](lectures/lecture24/lecture24Quiz.pdf) 
-  ([sample solutions](lectures/lecture24/lecture24Quiz_sol.pdf)). 
-  The [lecture 24](lectures/lecture24/lecture24notes.md) notes contain more examples 
-  of using lists.
-- Friday Nov 11: SFU Closed ([Remembrance Day](https://en.wikipedia.org/wiki/Remembrance_Day))
+- Read this textbook chapter: [chapter 3](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap03.ipynb)
+- Review these lecture notes: [chapter 3 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/chapter3_lecture.ipynb)
+- Do this homework: [chapter 3 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/homework3.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/homework3_sol.ipynb))
+- Write the weekly Canvas quiz on Friday!
 
-### Week 11
-- Simple sorting, searching, and an introduction to algorithmic complexity
-  (see notes for this week)
-- Mon Nov 14: [lecture 25](lectures/lecture25/lecture25notes.md), 
-              [lecture 26](lectures/lecture26/lecture26notes.md)
-- Wed Nov 16: [lecture 27](lectures/lecture27/lecture27notes.md)
+### Week 5 (Sept 30 to Oct 4)
 
-### Week 12
-- [Read chapter 11: Files (11.1 - 11.6, 11.8)](https://runestone.academy/ns/books/published/120fall2022surrey/Files/toctree.html)
-- [Read chapter 12: Dictionaries (12.1 - 12.4)](https://runestone.academy/ns/books/published/120fall2022surrey/Dictionaries/toctree.html)
-- Mon Nov 21: [lecture 28](lectures/lecture28/lecture28notes.md), 
-              [lecture 29](lectures/lecture29/lecture29notes.md)
-- Wed Nov 23: In this class we did a [zero marks quiz on dictionaries](lectures/lecture30/lecture30Quiz.pdf) ([solutions](lectures/lecture30/lecture30Quiz_sol.pdf)). [spellcheck.py](lectures/lecture30/spellcheck.py) contains sample code, including an extra function for finding misspelled words in a text file.
-  [lecture 30](lectures/lecture30/lecture30notes.md) does *not* contain any extra notes.
+- Read this textbook chapter: [chapter 4](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap04.ipynb)
+- Review these lecture notes: [chapter 4 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter4/chapter4_lecture.ipynb)
+- Do this homework: [chapter 4 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter4/homework4.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter4/homework4_sol.ipynb))
+- Write the weekly Canvas quiz on Friday!
 
-### Week 13
-- [Read chapter 16: Recursion (all)](https://runestone.academy/ns/books/published/120fall2022surrey/IntroRecursion/toctree.html)
-- Mon Nov 28: [lecture 31](lectures/lecture31/lecture31notes.md), 
-              [lecture 32](lectures/lecture32/lecture32notes.md)
-- Wed Nov 30: [lecture 33](lectures/lecture33/lecture33notes.md)
+### Week 6 (Oct 7 to Oct 11)
 
-### Week 14
-- [Practice quiz](exams/120-D400final_practice_quiz.pdf)
-([solutions](exams/120-D400final_practice_quiz_sol.pdf)) and review during
-class.
-- Mon Dec 5: [lecture 34](lectures/lecture34/lecture34notes.md)
-- Tue Dec 6: last day of regular classes for Fall 2024
+- Read this textbook chapter: [chapter 5](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap05.ipynb)
+- Review these lecture notes: [chapter 5 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/chapter5_lecture.ipynb)
+- Do this homework: [chapter 5 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/homework5.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/homework5_sol.ipynb))
+- Write the weekly Canvas quiz on Friday!
 
+### Week 7 (Oct 14 to Oct 18)
 
-## Exam Period: Wed Jan 7 to Mon Jan 19
+- Read this textbook chapter: [chapter 6](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap06.ipynb)
+- Review these lecture notes: [chapter 6 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter6/chapter6_lecture.ipynb)
+- Do this homework: [chapter 6 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter6/homework6.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter6/homework6_sol.ipynb))
+- Write the weekly Canvas quiz on Friday!
 
-The day and time of the CS 12 final exam was announced by the university part
-way through the semester, and is published on
+### Week 8 (Oct 21 to Oct 25)
+
+- Read this textbook chapter: [chapter 7](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap07.ipynb)
+- Review these lecture notes: [chapter 7 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/chapter7_lecture.ipynb)
+- Do this homework: [chapter 7 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/homework7.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/homework7_sol.ipynb))
+- Write the weekly Canvas quiz on Friday!
+
+### Week 9 (Oct 28 to Nov 1)
+
+- Midterm exam! See Canvas for details.
+- Read this textbook chapter: [chapter 7](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap07.ipynb)
+- Review these lecture notes: [chapter 7 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/chapter7_lecture.ipynb)
+- Do this homework: [chapter 7 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/homework7.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/homework7_sol.ipynb))
+- No weekly quiz this week.
+
+### Week 10 (Nov 4 to Nov 8)
+
+- Read this textbook chapter: [chapter 8](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap08.ipynb)
+- Review these lecture notes: [chapter 8 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter8/chapter8_lecture.ipynb)
+- Do this homework: [chapter 8 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter8/homework8.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter8/homework8_sol.ipynb))
+- Write the weekly Canvas quiz on Friday!
+
+### Week 11 (Nov 11 to Nov 15)
+
+- Read this textbook chapter: [chapter 9](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap09.ipynb)
+- Review these lecture notes: [chapter 9 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/chapter9_lecture.ipynb)
+- Do this homework: [chapter 9 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9_sol.ipynb))
+- No weekly quiz this week.
+
+### Week 12 (Nov 18 to Nov 22)
+
+- Read this textbook chapter: [chapter 9](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap09.ipynb)
+- Review these lecture notes: [chapter 9 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/chapter9_lecture.ipynb)
+- Do this homework: [chapter 9 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9_sol.ipynb))
+- Write the weekly Canvas quiz on Friday!
+
+### Week 13 (Nov 25 to Nov 29)
+
+- Read this textbook chapter: [chapter 10](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap10.ipynb)
+- Review these lecture notes: [chapter 10 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/chapter10_lecture.ipynb)
+- Do this homework: [chapter 10 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/homework10.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/homework10_sol.ipynb))
+- Write the weekly Canvas quiz on Friday!
+
+### Week 14 (Dec 2 to Dec 6)
+
+- Read this textbook chapter: **none**
+- Review these lecture notes: 
+  - [linear search lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search.ipynb)
+  - [binary search lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search.ipynb)
+  - [sorting lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_sorting.ipynb)
+- Do this homework:
+   - [linear search homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search_homework_sol.ipynb))
+   - [binary search homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search_homework_sol.ipynb))
+   - [sorting homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework_sol.ipynb))
+- Write the weekly Canvas quiz on Friday!
+
+## Exam Period: Thursday Dec 5 to Tuesday December 17
+
+The day and time of the CMPT 120 final exam will be announced by the university
+part way through the semester, and is published on Canvas.
