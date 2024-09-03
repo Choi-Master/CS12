@@ -2,7 +2,8 @@
 
 #
 # Full Name:
-# SD43 Email:
+#  SFU ID #:
+# SFU Email:
 #
 
 # ... put your answer to question 4 here ...
