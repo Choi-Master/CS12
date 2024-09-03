@@ -24,18 +24,10 @@ if you are unfamiliar with notebooks.
 **You don't need to install notebook software on your own computer**. They are
 easy to read on the web in a couple of ways:
 
-1. Directly through their github web links. Just click on the Github link, e.g.
-   [chapter 0](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap00.ipynb).
+1. Directly through my github web links. Just click on the Github link, e.g.
+   [chapter 0](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap00.ipynb)
 2. Using the [Jupyter notebook viewer](https://nbviewer.jupyter.org/). Paste the
    github link into the viewer.
-3. Use [Google Colab](https://colab.research.google.com/). You will need a
-   (free) Google account to use it. You can open notebooks interactively in
-   [Google Colab](https://colab.research.google.com/). You can save your own
-   copies (e.g. [download all files a zip
-   file](https://github.com/tjd1234/cmpt120fall2024/zipball/main)) in
-   [Colab](https://colab.research.google.com/) that you can run and edit.
-   [Colab](https://colab.research.google.com/) provides all the Python libraries
-   you are likely to ever need, and you can run cells online. 
 
 ### Week 1 (Sept 2 to Sept 6)
 
@@ -44,22 +36,22 @@ easy to read on the web in a couple of ways:
 ### Week 2 (Sept 9 to Sept 13)
 
 - Read this textbook chapter: [chapter 1](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap01.ipynb)
-- Review these lecture notes: [chapter 1 lecture notes](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter1/chapter1_lecture.ipynb)
-- Do this homework: [chapter 1 homework](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter1/homework1.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter1/homework1_sol.ipynb))
+- Review these lecture notes: [chapter 1 lecture notes](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter1/chapter1_lecture.ipynb)
+- Do this homework: [chapter 1 homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter1/homework1.ipynb) ([solutions](https://github.com/CChoi-Master/CS12/blob/gh-pages/lecture_notes/chapter1/homework1_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 3 (Sept 16 to Sept 20)
 
-- Read this textbook chapter: [chapter 2](https://github.com/Choi-Master/CS12/blob/main/textbook/chap02.ipynb)
-- Review these lecture notes: [chapter 2 lecture notes](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter2/chapter2_lecture.ipynb)
-- Do this homework: [chapter 2 homework](https://github.com//blob/main/lecture_notes/chapter2/homework2.ipynb) ([solutions](https://github.com//blob/main/lecture_notes/chapter2/homework2_sol.ipynb))
+- Read this textbook chapter: [chapter 2](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap02.ipynb)
+- Review these lecture notes: [chapter 2 lecture notes](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter2/chapter2_lecture.ipynb)
+- Do this homework: [chapter 2 homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter2/homework2.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter2/homework2_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 4 (Sept 23 to Sept 27)
 
-- Read this textbook chapter: [chapter 3](https://github.com/Choi-Master/CS12/blob/main/textbook/chap03.ipynb)
-- Review these lecture notes: [chapter 3 lecture notes](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter3/chapter3_lecture.ipynb)
-- Do this homework: [chapter 3 homework](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter3/homework3.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter3/homework3_sol.ipynb))
+- Read this textbook chapter: [chapter 3](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap03.ipynb)
+- Review these lecture notes: [chapter 3 lecture notes](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter3/chapter3_lecture.ipynb)
+- Do this homework: [chapter 3 homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter3/homework3.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter3/homework3_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 5 (Sept 30 to Oct 4)
