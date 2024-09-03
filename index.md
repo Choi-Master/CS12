@@ -50,30 +50,30 @@ easy to read on the web in a couple of ways:
 
 ### Week 3 (Sept 16 to Sept 20)
 
-- Read this textbook chapter: [chapter 2](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap02.ipynb)
-- Review these lecture notes: [chapter 2 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter2/chapter2_lecture.ipynb)
-- Do this homework: [chapter 2 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter2/homework2.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter2/homework2_sol.ipynb))
+- Read this textbook chapter: [chapter 2](https://github.com/Choi-Master/CS12/blob/main/textbook/chap02.ipynb)
+- Review these lecture notes: [chapter 2 lecture notes](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter2/chapter2_lecture.ipynb)
+- Do this homework: [chapter 2 homework](https://github.com//blob/main/lecture_notes/chapter2/homework2.ipynb) ([solutions](https://github.com//blob/main/lecture_notes/chapter2/homework2_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 4 (Sept 23 to Sept 27)
 
-- Read this textbook chapter: [chapter 3](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap03.ipynb)
-- Review these lecture notes: [chapter 3 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/chapter3_lecture.ipynb)
-- Do this homework: [chapter 3 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/homework3.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter3/homework3_sol.ipynb))
+- Read this textbook chapter: [chapter 3](https://github.com/Choi-Master/CS12/blob/main/textbook/chap03.ipynb)
+- Review these lecture notes: [chapter 3 lecture notes](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter3/chapter3_lecture.ipynb)
+- Do this homework: [chapter 3 homework](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter3/homework3.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter3/homework3_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 5 (Sept 30 to Oct 4)
 
-- Read this textbook chapter: [chapter 4](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap04.ipynb)
-- Review these lecture notes: [chapter 4 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter4/chapter4_lecture.ipynb)
-- Do this homework: [chapter 4 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter4/homework4.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter4/homework4_sol.ipynb))
+- Read this textbook chapter: [chapter 4](https://github.com/Choi-Master/CS12/blob/main/textbook/chap04.ipynb)
+- Review these lecture notes: [chapter 4 lecture notes](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter4/chapter4_lecture.ipynb)
+- Do this homework: [chapter 4 homework](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter4/homework4.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter4/homework4_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 6 (Oct 7 to Oct 11)
 
-- Read this textbook chapter: [chapter 5](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap05.ipynb)
-- Review these lecture notes: [chapter 5 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/chapter5_lecture.ipynb)
-- Do this homework: [chapter 5 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/homework5.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter5/homework5_sol.ipynb))
+- Read this textbook chapter: [chapter 5](https://github.com/Choi-Master/CS12/blob/main/textbook/chap05.ipynb)
+- Review these lecture notes: [chapter 5 lecture notes](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter5/chapter5_lecture.ipynb)
+- Do this homework: [chapter 5 homework](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter5/homework5.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter5/homework5_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 7 (Oct 14 to Oct 18)
