@@ -11,8 +11,8 @@ Due dates, marks, discussions, etc. are all on MS TEAMS.
 - Assignment 5
 
 ## Sample Exams
-
 TBA
+
 ## Textbook
 We will use "Think Python 3rd edition" (https://allendowney.github.io/ThinkPython/index.html)
 
