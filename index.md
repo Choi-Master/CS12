@@ -12,10 +12,7 @@ Due dates, marks, discussions, etc. are all on MS TEAMS.
 
 ## Sample Exams
 
-To Be Shared.
-
-Here is an [exam timer](https://tjd1234.github.io/examclock/examclock.html)
-that shows the remaining time in an exam.
+TBA
 
 ## Lecture Notes (Fall 2024)
 
