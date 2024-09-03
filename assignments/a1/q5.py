@@ -2,8 +2,7 @@
 
 #
 # Full Name:
-#  SFU ID #:
-# SFU Email:
+# Block #:
 #
 
 # ... put your answer to question 5 here ...
