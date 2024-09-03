@@ -13,7 +13,8 @@ Due dates, marks, discussions, etc. are all on MS TEAMS.
 ## Sample Exams
 
 TBA
-
+## Textbook
+We will use "Think Python 3rd edition" [(https://allendowney.github.io/ThinkPython/index.html)]
 ## Lecture Notes (Fall 2024)
 
 Most of the notes are written in [Jupyter notebooks](https://jupyter.org/). [See
