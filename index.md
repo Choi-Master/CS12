@@ -87,51 +87,51 @@ easy to read on the web in a couple of ways:
 - Midterm exam! See Canvas for details.
 - Read this textbook chapter: [chapter 7](https://github.com/tjd1234/Choi-Master/CS12/blob/gh-pages/textbook/chap07.ipynb)
 - Review these lecture notes: [chapter 7 lecture notes](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter7/chapter7_lecture.ipynb)
-- Do this homework: [chapter 7 homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter7/homework7.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter7/homework7_sol.ipynb))
+- Do this homework: [chapter 7 homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter7/homework7.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter7/homework7_sol.ipynb))
 - No weekly quiz this week.
 
 ### Week 10 (Nov 4 to Nov 8)
 
-- Read this textbook chapter: [chapter 8](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap08.ipynb)
-- Review these lecture notes: [chapter 8 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter8/chapter8_lecture.ipynb)
-- Do this homework: [chapter 8 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter8/homework8.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter8/homework8_sol.ipynb))
+- Read this textbook chapter: [chapter 8](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap08.ipynb)
+- Review these lecture notes: [chapter 8 lecture notes](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter8/chapter8_lecture.ipynb)
+- Do this homework: [chapter 8 homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter8/homework8.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter8/homework8_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 11 (Nov 11 to Nov 15)
 
-- Read this textbook chapter: [chapter 9](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap09.ipynb)
-- Review these lecture notes: [chapter 9 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/chapter9_lecture.ipynb)
-- Do this homework: [chapter 9 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9_sol.ipynb))
+- Read this textbook chapter: [chapter 9](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap09.ipynb)
+- Review these lecture notes: [chapter 9 lecture notes](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter9/chapter9_lecture.ipynb)
+- Do this homework: [chapter 9 homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter9/homework9.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter9/homework9_sol.ipynb))
 - No weekly quiz this week.
 
 ### Week 12 (Nov 18 to Nov 22)
 
-- Read this textbook chapter: [chapter 9](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap09.ipynb)
-- Review these lecture notes: [chapter 9 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/chapter9_lecture.ipynb)
-- Do this homework: [chapter 9 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter9/homework9_sol.ipynb))
+- Read this textbook chapter: [chapter 9](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap09.ipynb)
+- Review these lecture notes: [chapter 9 lecture notes](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter9/chapter9_lecture.ipynb)
+- Do this homework: [chapter 9 homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter9/homework9.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter9/homework9_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 13 (Nov 25 to Nov 29)
 
-- Read this textbook chapter: [chapter 10](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap10.ipynb)
-- Review these lecture notes: [chapter 10 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/chapter10_lecture.ipynb)
-- Do this homework: [chapter 10 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/homework10.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter10/homework10_sol.ipynb))
+- Read this textbook chapter: [chapter 10](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap10.ipynb)
+- Review these lecture notes: [chapter 10 lecture notes](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter10/chapter10_lecture.ipynb)
+- Do this homework: [chapter 10 homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter10/homework10.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter10/homework10_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 14 (Dec 2 to Dec 6)
 
 - Read this textbook chapter: **none**
 - Review these lecture notes: 
-  - [linear search lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search.ipynb)
-  - [binary search lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search.ipynb)
-  - [sorting lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_sorting.ipynb)
+  - [linear search lecture notes](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search.ipynb)
+  - [binary search lecture notes](https://github.comChoi-Master/CS12/blob/gh-pages/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search.ipynb)
+  - [sorting lecture notes](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter_algorithms/alg3_sorting/alg3_sorting.ipynb)
 - Do this homework:
-   - [linear search homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search_homework_sol.ipynb))
-   - [binary search homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search_homework_sol.ipynb))
-   - [sorting homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework_sol.ipynb))
+   - [linear search homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search_homework.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter_algorithms/alg1_linear_search/alg1_linear_search_homework_sol.ipynb))
+   - [binary search homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search_homework.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter_algorithms/alg2_binary_search/alg2_binary_search_homework_sol.ipynb))
+   - [sorting homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter_algorithms/alg3_sorting/alg3_linear_search_homework_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ## Exam Period: Thursday Dec 5 to Tuesday December 17
 
 The day and time of the CMPT 120 final exam will be announced by the university
-part way through the semester, and is published on Canvas.
+part way through the semester, and is published on MS TEAMS.
