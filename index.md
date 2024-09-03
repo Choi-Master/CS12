@@ -39,13 +39,13 @@ easy to read on the web in a couple of ways:
 
 ### Week 1 (Sept 2 to Sept 6)
 
-- Read this textbook chapter: [chapter 0](textbook/chap00.ipynb)
+- Read this textbook chapter: [chapter 0](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap00.ipynb)
 
 ### Week 2 (Sept 9 to Sept 13)
 
-- Read this textbook chapter: [chapter 1](https://github.com/tjd1234/cmpt120fall2024/blob/main/textbook/chap01.ipynb)
-- Review these lecture notes: [chapter 1 lecture notes](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/chapter1_lecture.ipynb)
-- Do this homework: [chapter 1 homework](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/homework1.ipynb) ([solutions](https://github.com/tjd1234/cmpt120fall2024/blob/main/lecture_notes/chapter1/homework1_sol.ipynb))
+- Read this textbook chapter: [chapter 1](https://github.com/Choi-Master/CS12/blob/main/textbook/chap01.ipynb)
+- Review these lecture notes: [chapter 1 lecture notes](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter1/chapter1_lecture.ipynb)
+- Do this homework: [chapter 1 homework](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter1/homework1.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/main/lecture_notes/chapter1/homework1_sol.ipynb))
 - Write the weekly Canvas quiz on Friday!
 
 ### Week 3 (Sept 16 to Sept 20)
