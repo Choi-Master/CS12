@@ -136,5 +136,4 @@ easy to read on the web in a couple of ways:
   
 ## Exam Period: Thursday Dec 5 to Tuesday December 17
 
-The day and time of the CMPT 120 final exam will be announced by the university
-part way through the semester, and is published on MS TEAMS.
+The day and time of the SFU CMPT 120 final exam will be announced by the university partway through the semester and published on MS Teams.
