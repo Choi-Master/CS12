@@ -133,7 +133,7 @@ easy to read on the web in a couple of ways:
 ### Week 14 (Dec 2 to Dec 6)
 - Review
 - Mock Exam
-- 
+  
 ## Exam Period: Thursday Dec 5 to Tuesday December 17
 
 The day and time of the CMPT 120 final exam will be announced by the university
