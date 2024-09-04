@@ -14,7 +14,7 @@ Due dates, marks, discussions, etc. are all on MS TEAMS.
 TBA
 
 ## Textbook
-We will use "Think Python 3rd edition" (https://allendowney.github.io/ThinkPython/index.html)
+We will use "Think Python 3rd edition" [https://allendowney.github.io/ThinkPython/index.html](https://allendowney.github.io/ThinkPython/index.html) 
 
 ## Lecture Notes (Fall 2024)
 
