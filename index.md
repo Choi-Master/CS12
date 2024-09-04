@@ -2,6 +2,10 @@
 
 Due dates, marks, discussions, etc. are all on MS TEAMS.
 
+Also, I recommend you use [the Mu Python editor](https://codewith.mu/) to run your
+Python programs. It's easy to use, and comes complete with all the libraries
+you'll need for this course.
+
 ## Assignments
 
 - [Assignment 1](https://github.com/Choi-Master/CS12/blob/gh-pages/assignments/a1/a1.ipynb)
@@ -30,6 +34,7 @@ easy to read on the web in a couple of ways:
    [chapter 0](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap00.ipynb)
 2. Using the [Jupyter notebook viewer](https://nbviewer.jupyter.org/). Paste the
    github link into the viewer.
+3. You can also download the files and read in Microsoft Visual Studio (VS) Code.
 
 ### Week 1 (Sept 3 to Sept 6)
 
