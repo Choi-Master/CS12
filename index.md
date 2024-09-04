@@ -6,7 +6,7 @@ Due dates, marks, discussions, etc. are all on MS TEAMS.
 
 Also, I recommend you use [the Mu Python editor](https://codewith.mu/) to run your
 Python programs. It's easy to use, and comes complete with all the libraries
-you'll need for this course.
+you'll need for this course. However, you may use other editors such as the built-in Python IDLE or Microsoft VS Code.
 
 ## Assignments
 
