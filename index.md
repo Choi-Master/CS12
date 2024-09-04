@@ -1,5 +1,7 @@
 # CS 12, Fall 2024
 
+Course Syllabus [(https://github.com/Choi-Master/CS12/blob/gh-pages/course_info/CS%20Course%20Outline%202024_25.pdf)] 
+
 Due dates, marks, discussions, etc. are all on MS TEAMS.
 
 Also, I recommend you use [the Mu Python editor](https://codewith.mu/) to run your
