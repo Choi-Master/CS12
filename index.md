@@ -70,7 +70,7 @@ easy to read on the web in a couple of ways:
 
 - Read this textbook chapter: [chapter 5](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap05.ipynb)
 - Review these lecture notes: [chapter 5 lecture notes](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter5/chapter5_lecture.ipynb)
-- Do this homework: [chapter 5 homework]([https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter5/homework5.ipynb)] ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter5/homework5_sol.ipynb))
+- Do this homework: [chapter 5 homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter5/homework5.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter5/homework5_sol.ipynb))
 - Write the weekly quiz on Friday!
 
 ### Week 6 (Oct 7 to Oct 11)
