@@ -1,10 +1,11 @@
 # CS 12, Fall 2024
 
+
 Due dates, marks, discussions, etc. are all on MS TEAMS.
 
 Also, I recommend you use [the Mu Python editor](https://codewith.mu/) to run your
 Python programs. It's easy to use, and comes complete with all the libraries
-you'll need for this course.
+you'll need for this course. However, you may use other editors like the built-in Python IDLE or Microsoft VS Code.
 
 ## Assignments
 
@@ -27,22 +28,22 @@ here for an
 overview](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/jupyter_intro.ipynb)
 if you are unfamiliar with notebooks.
 
-**You don't need to install notebook software on your own computer**. They are
+**You don't need to install notebook software on your computer**. They are
 easy to read on the web in a couple of ways:
 
 1. Directly through my github web links. Just click on the Github link, e.g.
    [chapter 0](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap00.ipynb)
 2. Using the [Jupyter notebook viewer](https://nbviewer.jupyter.org/). Paste the
    github link into the viewer.
-3. You can also download the files and read in Microsoft Visual Studio (VS) Code.
+3. You can also download and read the files in Microsoft Visual Studio (VS) Code.
 
 ### Week 1 (Sept 3 to Sept 6)
 
 - Read this textbook chapter: [chapter 0](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap00.ipynb)
 - Read this textbook chapter: [chapter 1](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap01.ipynb)
 - Review these lecture notes: [chapter 1 lecture notes](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter1/chapter1_lecture.ipynb)
-- Do this homework: [chapter 1 homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter1/homework1.ipynb) ([solutions](https://github.com/CChoi-Master/CS12/blob/gh-pages/lecture_notes/chapter1/homework1_sol.ipynb))
-- Write the weekly quiz on Friday!
+- Do this homework: [chapter 1 homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter1/homework1.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter1/homework1_sol.ipynb))
+- Write the weekly quiz on Friday! (No quiz this week, but try to submit the HW by Monday)
 
 ### Week 2 (Sept 9 to Sept 13)
 
@@ -69,7 +70,7 @@ easy to read on the web in a couple of ways:
 
 - Read this textbook chapter: [chapter 5](https://github.com/Choi-Master/CS12/blob/gh-pages/textbook/chap05.ipynb)
 - Review these lecture notes: [chapter 5 lecture notes](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter5/chapter5_lecture.ipynb)
-- Do this homework: [chapter 5 homework](https://github.com/Choi-Master/CS12/blob/gh-pagesn/lecture_notes/chapter5/homework5.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter5/homework5_sol.ipynb))
+- Do this homework: [chapter 5 homework](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter5/homework5.ipynb) ([solutions](https://github.com/Choi-Master/CS12/blob/gh-pages/lecture_notes/chapter5/homework5_sol.ipynb))
 - Write the weekly quiz on Friday!
 
 ### Week 6 (Oct 7 to Oct 11)
