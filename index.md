@@ -10,8 +10,8 @@ you'll need for this course. However, you may use other editors like the built-i
 ## Assignments
 
 - [Assignment 1](https://github.com/Choi-Master/CS12/blob/gh-pages/assignments/a1/a1.ipynb)
-- Assignment 2
-- Assignment 3
+- [Assignment 2](https://github.com/Choi-Master/CS12/blob/gh-pages/assignments/a2/a2.ipynb)
+- [Assignment 3](https://github.com/Choi-Master/CS12/blob/gh-pages/assignments/a3/a3.ipynb)
 - Assignment 4
 - Assignment 5
 
