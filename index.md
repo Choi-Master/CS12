@@ -16,7 +16,8 @@ you'll need for this course. However, you may use other editors like the built-i
 - Assignment 5
 
 ## Sample Exams
-TBA
+
+- [Mini midterm](exams/120-D400mini_midterm1_fall2022.pdf) ([solutions](exams/120-D400mini_midterm1_fall2022_sol.pdf))
 
 ## Textbook
 We will use "Think Python 3rd edition" [https://allendowney.github.io/ThinkPython/index.html](https://allendowney.github.io/ThinkPython/index.html) 
