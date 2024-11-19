@@ -13,7 +13,7 @@ you'll need for this course. However, you may use other editors like the built-i
 - [Assignment 2](https://github.com/Choi-Master/CS12/blob/gh-pages/assignments/a2/a2.ipynb)
 - [Assignment 3](https://github.com/Choi-Master/CS12/blob/gh-pages/assignments/a3/a3.ipynb)
 - [Assignment 4](https://github.com/Choi-Master/CS12/blob/gh-pages/assignments/a4/a4.ipynb)
-- Assignment 5
+- [Assignment 5](https://github.com/Choi-Master/CS12/blob/gh-pages/assignments/a5/a5.ipynb)
 
 ## Sample Exams
 
